@@ -1,23 +1,23 @@
 {
   "notes": [
     {
-      "title": "Test test test",
-      "text": "Test text",
+      "title": "Plan vacation",
+      "text": "Something tropical\n",
       "id": "0"
     },
     {
-      "title": "This is a nice note",
-      "text": "dont you think",
+      "title": "Start work",
+      "text": "Tomorrow",
       "id": "1"
     },
     {
-      "title": "Big wow",
-      "text": "much wow",
+      "title": "Submit assignment",
+      "text": "right now dude",
       "id": "2"
     },
     {
-      "title": "Shaggy",
-      "text": "I didnt do it",
+      "title": "Complete this course",
+      "text": "And get an A+ !",
       "id": "3"
     }
   ]
